@@ -6,6 +6,7 @@ require (
 	github.com/apache/thrift v0.13.0
 	github.com/cloudwego/kitex v0.5.2
 	github.com/kitex-contrib/registry-etcd v0.1.0
+	github.com/redis/go-redis/v9 v9.0.5
 	github.com/stretchr/testify v1.8.2
 )
 
